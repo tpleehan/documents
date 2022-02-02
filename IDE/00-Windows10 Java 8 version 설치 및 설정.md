@@ -2,11 +2,11 @@
 
 Java SE에는 JDK와 JRE가 포함되어 있다.
 
-### **JDK**(Java Development kit 약자로 자바 개발 키트라고 한다.) 
+### ** JDK **(Java Development kit 약자로 자바 개발 키트라고 한다.) 
 + JDK는 프로그램 개발에 필요한 자바 가상 기계(JVM)
 + 라이브러리 API, 컴파일러 등의 개발 도구가 포함되어 있다.
 
-### **JRE**(Java Runtime Environment 약자로 자바 실행 환경이라고 한다.)
+### ** JRE **(Java Runtime Environment 약자로 자바 실행 환경이라고 한다.)
 + JRE는 프로그램 실행에 필요한 자바 가상 기계(JVM)
 + 라이브러리 API만 포함되어 있다.
 + 자바 프로그램을 개발하는 것이 아니고, 이미 개발된 프로그램만 실행한다면 JRE만 설치하면 된다.
@@ -15,8 +15,7 @@ Oracle에서 무료로 제공되기 때문에 해당 사이트를 통해 설치�
 http://www.oracle.com
 
 
-##자바 SE 8 (JAVA 1.8 version) Download
-------------
+## 자바 SE 8 (JAVA 1.8 version) Download
 
 오라클 홈페이지에 처음 접속하면 쿠키 관련 창이 나타나는데 모두 승인하면 된다.
 
@@ -39,7 +38,7 @@ jdk-8 u311-windows-x64.exe를 누른다.
 
 (Windows 환경에 설치하기 때문에 Windows를 선택)
 
-<span style="color:blue"> 8u311은 업데이트 내역으로 숫자는 매번 바뀐다. </span>
+<span style="color:blue">8u311은 업데이트 내역으로 숫자는 매번 바뀐다.</span>
 
 ![4](https://user-images.githubusercontent.com/60464237/151926759-46eaa61d-8809-4873-8be5-436b16ffeb7b.jpeg)
 
