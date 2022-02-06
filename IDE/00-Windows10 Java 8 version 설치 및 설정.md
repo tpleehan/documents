@@ -2,11 +2,11 @@
 
 Java SE에는 JDK와 JRE가 포함되어 있다.
 
-### ** JDK **(Java Development kit 약자로 자바 개발 키트라고 한다.) 
+### JDK (Java Development kit 약자로 자바 개발 키트라고 한다.) 
 + JDK는 프로그램 개발에 필요한 자바 가상 기계(JVM)
 + 라이브러리 API, 컴파일러 등의 개발 도구가 포함되어 있다.
 
-### ** JRE **(Java Runtime Environment 약자로 자바 실행 환경이라고 한다.)
+### JRE (Java Runtime Environment 약자로 자바 실행 환경이라고 한다.)
 + JRE는 프로그램 실행에 필요한 자바 가상 기계(JVM)
 + 라이브러리 API만 포함되어 있다.
 + 자바 프로그램을 개발하는 것이 아니고, 이미 개발된 프로그램만 실행한다면 JRE만 설치하면 된다.
