@@ -93,7 +93,10 @@ Tomcat이 설치한 디렉토리를 설정해야 한다. <br>
 
 <br>
 
-압축 해제한 파일 경로를 찾아 폴더 선택을 하면 된다. <br>
+압축 해제한 파일 경로를 찾아 폴더 선택을 하면 된다.
+
+<br>
+
 경로가 다른 곳을 선택하는 경우 정상 작동하지 않으니 유의해야 한다.
 
 <br>
@@ -129,11 +132,11 @@ Tomcat 설정 창이 나타난다.
 <br>
 
 * Server Locations
-- ⏺Use Tomcat installation (takes control of Tomcat installation)  변경
+	- ⏺Use Tomcat installation (takes control of Tomcat installation)  변경
 * Server Options
-- ✅Publish module contexts to separate XML files  체크
+	- ✅Publish module contexts to separate XML files  체크
 * Ports
-- Port NUmber 8181 변경 (8080은 오라클에서 주로 사용되기 때문에 충돌 방지를 위해 변경)
+	- Port NUmber 8181 변경 (8080은 오라클에서 주로 사용되기 때문에 충돌 방지를 위해 변경)
 
 <br>
 
@@ -188,9 +191,12 @@ Servers쪽에 Tomcat v9.0 Server at Localhost [Stopped, Republish] <br>
 
 (practice라는 프로젝트를 임의로 생성하였다.)
 
+<br>
+
 ![17](https://user-images.githubusercontent.com/60464237/156562932-843796dc-d084-48a1-826c-41a0458ceb10.jpg)
 
 <br>
+
 Available : 에 있는 practice를 누른 후 <br>
 "Add >" 눌러 Configured: 로 옮긴다.
 
@@ -267,6 +273,8 @@ Window > Preferences를 누른다.
 <br>
 
 General > Web Browser안에 체크할 사항이 있다. <br>
+
+<br>
 
 ⏺ Use external web browser <br>
 
